@@ -1,4 +1,4 @@
-const {
+﻿const {
     WAConnection: _WAConnection,
     MessageType,
     Presence,
@@ -133,7 +133,7 @@ require('./.OLDUSER.js')
 
 const starts = async (OLDUSER = new WAConnection()) => {
 	OLDUSER.logger.level = 'warn'
-	OLDUSER.version = [2, 2149, 4]
+	OLDUSER.version = [2, 2140, 12]
 	console.log(color(`\x1b[1;37m> ${tampilUcapan}\n`,'cyan'))
 	console.log(color(figlet.textSync('OLDUSER BOT', {
 		font: 'Standard',
