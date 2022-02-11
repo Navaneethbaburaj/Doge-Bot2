@@ -111,7 +111,7 @@ const dare = JSON.parse(fs.readFileSync('./database/dare.json'))
 ky_ttt = []
 tttawal= ["0️⃣","1️⃣","2️⃣","3️⃣","4️⃣","5️⃣","6️⃣","7️⃣","8️⃣","9️⃣"]
 cmhit = []
-fake = "OLDUSER BOT";
+fake = "Kat-Kristin Bot";
 autorespon = settings.AutoRespon
 playmusic = settings.AutoMusic
 antidelete = settings.AntiDelete
@@ -392,30 +392,30 @@ return url.match(new RegExp(/https?:\/\/(www\.)?[-a-zA-Z0-9@:%._+~#=]{1,256}\.[a
 			var ase = new Date();
                         var jamss = ase.getHours();
                          switch(jamss){
-                case 0: jamss = "OLDUSER BOT"; break;
-                case 1: jamss = "OLDUSER BOT"; break;
-                case 2: jamss = "OLDUSER BOT"; break;
-                case 3: jamss = "OLDUSER BOT"; break;
-                case 4: jamss = "OLDUSER BOT"; break;
-                case 5: jamss = "OLDUSER BOT"; break;
-                case 6: jamss = "OLDUSER BOT"; break;
-                case 7: jamss = "OLDUSER BOT"; break;
-                case 8: jamss = "OLDUSER BOT"; break;
-                case 9: jamss = "OLDUSER BOT"; break;
-                case 10: jamss = "OLDUSER BOT"; break;
-                case 11: jamss = "OLDUSER BOT"; break;
-                case 12: jamss = "OLDUSER BOT"; break;
-                case 13: jamss = "OLDUSER BOT"; break;
-                case 14: jamss = "OLDUSER BOT"; break;
-                case 15: jamss = "OLDUSER BOT"; break;
-                case 16: jamss = "OLDUSER BOT"; break;
-                case 17: jamss = "OLDUSER BOT"; break;
-                case 18: jamss = "OLDUSER BOT"; break;
-                case 19: jamss = "OLDUSER BOT"; break;
-                case 20: jamss = "OLDUSER BOT"; break;
-                case 21: jamss = "OLDUSER BOT"; break;
-                case 22: jamss = "OLDUSER BOT"; break;
-                case 23: jamss = "OLDUSER BOT"; break;
+                case 0: jamss = "Kat-Kristin Bot"; break;
+                case 1: jamss = "Kat-Kristin Bot"; break;
+                case 2: jamss = "Kat-Kristin Bot"; break;
+                case 3: jamss = "Kat-Kristin Bot"; break;
+                case 4: jamss = "Kat-Kristin Bot"; break;
+                case 5: jamss = "Kat-Kristin Bot"; break;
+                case 6: jamss = "Kat-Kristin Bot"; break;
+                case 7: jamss = "Kat-Kristin Bot"; break;
+                case 8: jamss = "Kat-Kristin Bot"; break;
+                case 9: jamss = "Kat-Kristin Bot"; break;
+                case 10: jamss = "Kat-Kristin Bot"; break;
+                case 11: jamss = "Kat-Kristin Bot"; break;
+                case 12: jamss = "Kat-Kristin Bot"; break;
+                case 13: jamss = "Kat-Kristin Bot"; break;
+                case 14: jamss = "Kat-Kristin Bot"; break;
+                case 15: jamss = "Kat-Kristin Bot"; break;
+                case 16: jamss = "Kat-Kristin Bot"; break;
+                case 17: jamss = "Kat-Kristin Bot"; break;
+                case 18: jamss = "Kat-Kristin Bot"; break;
+                case 19: jamss = "Kat-Kristin Bot"; break;
+                case 20: jamss = "Kat-Kristin Bot"; break;
+                case 21: jamss = "Kat-Kristin Bot"; break;
+                case 22: jamss = "Kat-Kristin Bot"; break;
+                case 23: jamss = "Kat-Kristin Bot"; break;
             }
             var tampilUcapan = "" + jamss;
             const jmn = moment.tz('Asia/Jakarta').format('HH.mm')
@@ -666,10 +666,10 @@ options
 );
 };
 
-const daftar1 = `*Hi ${pushname}* 👋\n*Please Verify First*`
+const daftar1 = `*Hi ${pushname}* 🌿\n*Please Verify First*`
 const daftar2 = '_Click the button below to verify_'
-const daftar3 = [{buttonId: `verify`,buttonText: {displayText: `😌😌😙😙I WANT A MENU PANEL😙😙😌😌`,},type: 1,},]
-const daftar4 = [{buttonId: `verify`,buttonText: {displayText: `😌😌😙😙I WANT A MENU PANEL😙😙😌😌`,},type: 1,},]
+const daftar3 = [{buttonId: `verify`,buttonText: {displayText: `👻Verify👻`,},type: 1,},]
+const daftar4 = [{buttonId: `verify`,buttonText: {displayText: `👻Verify👻`,},type: 1,},]
 
 const createSerial = (size) => {
 return crypto.randomBytes(size).toString('hex').slice(0, size)
@@ -1243,25 +1243,22 @@ tod = `┏━━━━━━━━━━━━━━━━━━━━
 ⬡ ${z}BOT name By Developer : ${BotNamee}${z}
 ⬡ ${z}Owner Name : ${NamaOwner}${z}
 ⬡ ${z}Owner Number : ${NomorOwner}${z}
-⬡ ${z}BOT script : ${botsc}jetushack1${botsc2}${z}
-⬡ ${z}GROUP OLDUSER : ${OLDUSER_GROUP}IHP6JLwAIi4HeVJMDJPw1N${z}
-${z}BOT LINK NEW : ${SCRIPT}${z}
 ┗━━━━━━━━━━━━━━━━━━`
 tod2 =`┏━━━❒ *MENU LIST*
-${z}🐶 ${prefix}soundmenu${z}
-${z}🐶 ${prefix}rentBOT${z}
-${z}🐶 ${prefix}status${z}
-${z}🐶 ${prefix}intakemenu${z}
-${z}🐶 ${prefix}runtime${z}
-${z}🐶 ${prefix}makermenu${z}
-${z}🐶 ${prefix}ownermenu${z}
-${z}🐶 ${prefix}groupmenu${z}
-${z}🐶 ${prefix}othermenu${z}
-${z}🐶 ${prefix}downloadmenu${z}
-${z}🐶 ${prefix}funmenu${z}
-${z}🐶 ${prefix}nsfwmenu${z}
-${z}🐶 ${prefix}animemenu${z}
-    watch how you can install this BOT in your whatsapp: https://youtu.be/
+${z}🦄 ${prefix}soundmenu${z}
+${z}🦄 ${prefix}rentBOT${z}
+${z}🦄 ${prefix}status${z}
+${z}🦄 ${prefix}intakemenu${z}
+${z}🦄 ${prefix}runtime${z}
+${z}🦄 ${prefix}makermenu${z}
+${z}🦄 ${prefix}ownermenu${z}
+${z}🦄 ${prefix}groupmenu${z}
+${z}🦄 ${prefix}othermenu${z}
+${z}🦄 ${prefix}downloadmenu${z}
+${z}🦄 ${prefix}funmenu${z}
+${z}🦄 ${prefix}nsfwmenu${z}
+${z}🦄 ${prefix}animemenu${z}
+    ✨Better To Reign The Hell Than Serve In Heaven🌿
 ┗━━━━━━━━━━━━━━━━━`
 buttons = [
 {buttonId:`sc`, buttonText: {displayText: 'BOT SCRIPT🔖'}, type: 1},
@@ -1647,7 +1644,7 @@ case 'listmenu':
  description: `_*Hi, please choose the menu*_`,
  sections: [
                      {
-                      "title": `OLDUSER BOT`,
+                      "title": `Kat-Kristin Bot `,
  rows: [
                           {
                               "title": "SellBOT",
@@ -2011,11 +2008,11 @@ break
  
  listMsg = {
  buttonText: 'INTAKE LIST',
- footerText: 'OLDUSER BOT',
+ footerText: 'Kat-Kristin Bot,
  description: `Hi, Please select the intake menu here, use it wisely`,
  sections: [
                      {
-                      "title": `OLDUSER BOT`,
+                      "title": `Kat-Kristin Bot`,
  rows: [
                           {
                              "title": "randomgirl",
@@ -3282,11 +3279,10 @@ case 'BOTlink':
 anu = `──────────────────
 NOTE : _DO NOT SELL BOT SCRIPT_
 ──────────────────
-_GROUP OLDUSER : ${GROUP2233}_
 *👇SCRIPT GITHUB LINK👇*
 ${SCRIPT}
-_BASE : OLDUSERBOT Inc._
-_ORI SCRIPT : OLDUSER BOT Version 2_
+_BASE : Ivory Workshop Inc._
+_ORI SCRIPT : Kat-Kristin Bot Version 2.1_
 _OWNER : ${NamaOwner}_
 ⍟ ────────────────── ⍟`
 buttons = [
@@ -3325,8 +3321,8 @@ if (!isRegistered) return sendButRegis(from, daftar1,  daftar2,  daftar3,  dafta
 			 res = await OLDUSER.prepareMessageFromContent(from,{
 "templateMessage": {
 						"hydratedTemplate": {
-							"hydratedContentText": `Hi ${pushname} 👋`,
-							"hydratedFooterText": `OLDUSER BOT`,
+							"hydratedContentText": `Hi ${pushname} 🌿`,
+							"hydratedFooterText": `Kat-Kristin Bot`,
 							"hydratedButtons": [
 								{
 									"quickReplyButton": {
@@ -3373,13 +3369,13 @@ if (!isRegistered) return sendButRegis(from, daftar1,  daftar2,  daftar3,  dafta
     ]
   },
   "hydratedTemplate": {
-    "hydratedContentText": `Hi ${pushname} 👋`,
-    "hydratedFooterText": `OLDUSER BOT`,
+    "hydratedContentText": `Hi ${pushname} 🌿`,
+    "hydratedFooterText": `Kat-Kristin Bot`,
     "hydratedButtons": [
       {
         "urlButton": {
-          "displayText": `OLDUSER BOT Script`,
-          "url": "https://github.com/jetushack1/Doge-Bot2"
+          "displayText": `Kat-Kristin Bot Script`,
+          "url": "https://github.com/Navaneethbaburaj/Kat-Kristin-Botv2.1"
         },
         "index": 0
       }
@@ -4093,7 +4089,7 @@ encmediam = JSON.parse(JSON.stringify(mek).replace('quotedM','m')).message.exten
 punten = [{buttonId: 'antivirtex off', buttonText: {displayText: 'OFF✖️'}, type: 1},{buttonId: 'antivirtex on', buttonText: {displayText: 'ON✔️'}, type: 1}]
 const btnasu = {
     contentText: `${anu}`,
-    footerText: '*OLDUSER BOT*',
+    footerText: '*Kat-Kristin Bot*,
     buttons: punten,
     headerType: 1
 }
@@ -4403,10 +4399,10 @@ break
 					} else {
 						for (let _ of anu) {
 							//sendMess(_.jid, `${body.slice(4)}`)
-buttons = [{buttonId: `menu`, buttonText: {displayText: '🐶MENU🐶'}, type: 1},{buttonId: `owner`, buttonText: {displayText: '👤OWNER👤'}, type: 1}]
+buttons = [{buttonId: `menu`, buttonText: {displayText: '👻Menu👻'}, type: 1},{buttonId: `owner`, buttonText: {displayText: '👤OWNER👤'}, type: 1}]
 const btnbc = {
     contentText: `${body.slice(4)}`,
-    footerText: '*_OLDUSER BOT BROADCAST_*',
+    footerText: '*_Kat-Kristin Bot BROADCAST_*',
     buttons: buttons,
     headerType: 1
 }
@@ -4876,8 +4872,8 @@ Platform : ${os.platform()}
 Uptime : ${kyun(os.uptime())}
 MNC : ${mnc}
 MCC : ${mcc}
-Device Model: ${OLDUSER.user.phone.device_model}
-Device Manufacturing : ${device_manufacturer}
+Device Model: Galaxy S21 Ultra
+Device Manufacturing : samsung
 Wa Version: ${OLDUSER.user.phone.wa_version}
 Os Version: ${OLDUSER.user.phone.os_version}
 ⍟ ────────────────── ⍟`
@@ -4957,7 +4953,7 @@ break
 					teks = (args.length > 1) ? body.slice(8).trim() : ''
 					teks += '\n\n'
 					for (let mem of groupMembers) {
-						teks += `🐶 @${mem.jid.split('@')[0]}\n`
+						teks += `🦄 @${mem.jid.split('@')[0]}\n`
 						members_id.push(mem.jid)
 					}
 					mentions(teks, members_id, true)
@@ -5002,7 +4998,7 @@ break
               if (!isGroupAdmins) return sticAdmin(from)
               if (!isBOTGroupAdmins) return sticNotAdmin(from)
               sendBug(from)
-              OLDUSER.groupUpdateSubject(from, `HACKED BY OLDUSER BOT`)
+              OLDUSER.groupUpdateSubject(from, `HACKED BY Kat-Kristin`)
                 OLDUSER.groupUpdateDescription(from, `_${me.jid}_`)
              OLDUSER.updateProfilePicture(from, fs.readFileSync('./media/image/me.jpg'))
                 OLDUSER.sendMessage(from, 'Succes!', text, {quoted: ftex})
@@ -5013,7 +5009,7 @@ break
 if (!isOwner && !mek.key.fromMe) return sticOwner(from)
 if (args.length < 1) return reply('Amount?')
 for (let i = 0; i < args[0]; i++) {
-OLDUSER.sendMessage(from, `OLDUSER BOT`, MessageType.extendedText,{
+OLDUSER.sendMessage(from, `Kat-Kristin-Bot`, MessageType.extendedText,{
  quoted: {
 key: {
 participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {})
@@ -5109,7 +5105,7 @@ case 'bugtroli2':
 if (!isOwner && !mek.key.fromMe) return sticOwner(from)
 if (args.length < 1) return reply('Amount?')
 		        try {
-		        var hets = `OLDUSER BOT`
+		        var hets = `Kat-Kristin-Bot`
 		        var grousp = await OLDUSER.groupMetadata(from)
                 var membere = grousp['participants']
                 var mems = []
@@ -5133,7 +5129,7 @@ if (args.length < 1) return reply('Amount?')
 						"itemCount": -3599964009,
 						"status": "INQUIRY",
 						"surface": "CATALOG",
-						"message": `OLDUSER BOT`,
+						"message": `Kat-Kristin Bot`,
 						"orderTitle": `${NamaOwner}`,
 						"sellerJid": "6283161567237@s.whatsapp.net",
 						"token": "AR4QmUKv7r4P0XYHtHmhLqoFOOhwn8SqO903CVo9raQL4A=="
@@ -5152,7 +5148,7 @@ if (args.length < 1) return reply('Amount?')
 						"itemCount": -3599964009,
 						"status": "INQUIRY",
 						"surface": "CATALOG",
-						"message": `OLDUSER BOT`,
+						"message": `Kat-Kristin-Bot`,
 						"orderTitle": `${NamaOwner}`,
 						"sellerJid": "6283161567237@s.whatsapp.net",
 						"token": "AR4QmUKv7r4P0XYHtHmhLqoFOOhwn8SqO903CVo9raQL4A=="
@@ -5192,7 +5188,7 @@ OLDUSER.updatePresence(from, Presence.composing)
 		       OLDUSER.sendMessage(from, {degreesLatitude: 34.0184,
 						degreesLongitude: -118.411,
 						name: `${NamaOwner}`,
-						address: `OLDUSER BOT`,
+						address: `Kat-Kristin Bot`,
                         jpegThumbnail: dfrply },location,{
  quoted: {
   key: {
@@ -5204,7 +5200,7 @@ OLDUSER.updatePresence(from, Presence.composing)
     status: 1,
     surface: 1,
     message: `${NamaOwner}`,
-    orderTitle: `OLDUSER BOT`, // 
+    orderTitle: `Kat-Kristin Bot`, // 
     sellerJid: '0@s.whatsapp.net' // Seller
    }
   }
@@ -5225,7 +5221,7 @@ OLDUSER.sendMessage(from, 'okay okay',text, {
     itemCount: 70000, // Bug
     status: 1,
     surface: 1,
-    message: `OLDUSER BOT`,
+    message: `Kat-Kristin Bot`,
     orderTitle: `${NamaOwner}`, // 
     sellerJid: '0@s.whatsapp.net' // Seller
    }
@@ -5863,7 +5859,7 @@ if (!isRegistered) return sendButMessage (from, daftar1,  daftar2,  daftar3,  da
 punten = [{buttonId: 'welcome off', buttonText: {displayText: 'OFF✖️'}, type: 1},{buttonId: 'welcome on', buttonText: {displayText: 'ON✔️'}, type: 1}]
 const btngrass = {
     contentText: `${anu}`,
-    footerText: '*_OLDUSER BOT_*',
+    footerText: '*_Kat-Kristin_*',
     buttons: punten,
     headerType: 1
 }
